@@ -9,7 +9,7 @@ body {
     height: 100vh;
     overflow: hidden;
 
-    background: url("pictures/flower.jpg") center center/cover no-repeat fixed;
+    background: url("flower.jpg") center center/cover no-repeat fixed;
 
     animation: bgZoom 20s ease-in-out infinite alternate;
 }
